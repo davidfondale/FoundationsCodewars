@@ -10,7 +10,7 @@ def odd_even(x):
 
 def num_string(x):
     str = str(x);
-    return x;
+    return str;
 
 #Remove Spaces
 
